@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output
+/out/
+target/
+bin/
+
+# OS files
+.DS_Store
