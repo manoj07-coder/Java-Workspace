@@ -16,5 +16,6 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 ### 📂 Patterns/src/TwoPointers
 - PairSum
 - ReverseString
+- RemoveDuplicates
 - PalindromeCheck
 
