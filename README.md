@@ -20,6 +20,7 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 - LinkedListCycle
 - ReverseString
 - RemoveDuplicates
+- MoveZeros
 - PalindromeCheck
 - ThreeSum
 
