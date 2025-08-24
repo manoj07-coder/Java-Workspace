@@ -23,4 +23,5 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 - MoveZeros
 - PalindromeCheck
 - ThreeSum
+- TrappingRainWater
 
