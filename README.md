@@ -17,6 +17,7 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 - PairSum
 - DutchFlag
 - ContainerWithWater
+- LinkedListCycle
 - ReverseString
 - RemoveDuplicates
 - PalindromeCheck
