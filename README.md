@@ -15,6 +15,7 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 
 ### 📂 Patterns/src/MonotonicStack
 - NextGreaterElementI
+- NextGreaterElementII
 
 ### 📂 Patterns/src/TwoPointers
 - PairSum
