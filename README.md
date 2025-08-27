@@ -13,6 +13,9 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 ### 📂 Patterns/src
 - Main
 
+### 📂 Patterns/src/MonotonicStack
+- NextGreaterElementI
+
 ### 📂 Patterns/src/TwoPointers
 - PairSum
 - DutchFlag
