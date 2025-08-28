@@ -18,6 +18,7 @@ Java solutions for practicing **Data Structures, Algorithms, and Patterns**.
 - NextGreaterElementCircular
 - NextGreaterElementII
 - DailyTemperatures
+- StockSpan
 
 ### 📂 Patterns/src/TwoPointers
 - PairSum
